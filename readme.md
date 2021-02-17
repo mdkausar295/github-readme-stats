@@ -337,10 +337,10 @@ Choose from any of the [default themes](#themes)
 You usually won't be able to layout the images side by side. To do that you can use this approach:
 
 ```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mdkausar295/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdkausar295&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/mdkausar295/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdkausar295&repo=convoychat" />
 </a>
 ```
@@ -351,9 +351,9 @@ You usually won't be able to layout the images side by side. To do that you can 
 
 Since the GitHub API only allows 5k requests per hour, my `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter. If you host it on your own Vercel server, then you don't have to worry about anything. Click on the deploy button to get started!
 
-NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
+NOTE: Since [#58](https://github.com/mdkausar295/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mdkausar295/github-readme-stats)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>
@@ -385,7 +385,7 @@ However, if you are using this project and happy with it or just want to encoura
 
 - Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
 - Starring and sharing the project :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+- [![paypal.me/mdkausar295](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mdkausar295) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
 
